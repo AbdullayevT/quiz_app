@@ -1,6 +1,6 @@
-# first_app
+# quiz_app
 
-A new Flutter project.
+This is flutter project | Quiz App
 
 ## Getting Started
 
